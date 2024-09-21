@@ -1,0 +1,16 @@
+First of all you have to download this repository, once you have downloaded it, extract it and then do the following:
+
+1. Go to https://drive.google.com/drive/u/0/folders/1qaeSglgOYfwAMd_9k1M6crh3bj5UH6H0 and download all the zip files.
+
+2. cd to src folder that you installed from github.
+
+3. Extract all the files you downloaded from drive into src folder.
+
+4. run gui_app.py.
+
+
+** Here you can see a video of how to use our tool: 
+
+https://drive.google.com/file/d/1pFeVUrzoQ3dWLU_ApxRUW_ps-ikK_NMj/view
+
+Thanks for using our tool !
